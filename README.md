@@ -16,4 +16,5 @@ Delighted to unveil my newest endeavor: The Bike Sales Analysis Dashboard! made 
 2)Bar Chart📊
 
 📌To Interact live Dashboard Click the link: https://1drv.ms/x/c/0e553aff3a60acc6/Eb706RbxXC9NjKtxpSXwfacBy3TOxOkXUyJtdcxoZX0iqg?e=SdcUHj
+
 📌Data CSV file:https://docs.google.com/spreadsheets/d/1qwwxtQvhCG6W6V3bjYwUZBqyiXHUsHuq/edit?usp=drive_link&ouid=102088990880346198744&rtpof=true&sd=true
